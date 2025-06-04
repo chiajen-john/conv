@@ -1,2 +1,5 @@
-# Formatter
+# Formatter.
 .clang-format
+
+# Cache.
+.vscode
